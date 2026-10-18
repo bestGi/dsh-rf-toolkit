@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "RF Toolkit",
+    "description": "RF and link-budget calculators: level conversion, link budget, cascade noise figure, Shannon capacity and impedance match."
+  }
+}

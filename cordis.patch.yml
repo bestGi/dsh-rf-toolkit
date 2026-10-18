@@ -1,0 +1,6 @@
+# Bundle patch: inserts the plugin row into the profile's loader tree.
+# `name` resolves the package that exports `apply`; keep it in sync with
+# package.json if you rename the package.
+- insert:
+    - id: rf-toolkit
+      name: dsh-rf-toolkit

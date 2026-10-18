@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RF Toolkit">
+  <rect width="64" height="64" rx="14" fill="#1F6FEB"/>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round">
+    <path d="M32 50V26" stroke-width="3"/>
+    <path d="M25 50h14" stroke-width="3"/>
+    <path d="M20 30a17 17 0 0 1 24 0" stroke-width="3" opacity="0.95"/>
+    <path d="M25 36a10 10 0 0 1 14 0" stroke-width="3" opacity="0.75"/>
+    <circle cx="32" cy="22" r="2.4" fill="#FFFFFF" stroke="none"/>
+  </g>
+</svg>
