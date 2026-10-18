@@ -28,6 +28,14 @@
     "telecom"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestGi/dsh-rf-toolkit.git"
+  },
+  "homepage": "https://github.com/bestGi/dsh-rf-toolkit#readme",
+  "bugs": {
+    "url": "https://github.com/bestGi/dsh-rf-toolkit/issues"
+  },
   "engines": {
     "node": ">=20"
   },
