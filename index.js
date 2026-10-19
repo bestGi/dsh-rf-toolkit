@@ -162,6 +162,7 @@ export function apply(ctx) {
           description: 'Receive chain stages in signal order.',
           items: {
             type: 'object',
+            additionalProperties: false,
             properties: {
               gainDb: { type: 'number', required: true, description: 'Stage gain in dB; negative for a loss such as a filter or cable.' },
               noiseFigureDb: { type: 'number', required: true, description: 'Stage noise figure in dB.' },

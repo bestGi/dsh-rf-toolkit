@@ -1,6 +1,6 @@
 {
   "name": "dsh-rf-toolkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "RF and link-budget calculators for DeepSeek Harness: level conversion, link budget, cascade noise figure, Shannon capacity and impedance match.",
   "type": "module",
   "main": "index.js",
