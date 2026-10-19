@@ -42,6 +42,9 @@
   "scripts": {
     "test": "node --test"
   },
+  "peerDependencies": {
+    "@deepseek-ai/dsh-tools": "^0.2.1-rc.2"
+  },
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
